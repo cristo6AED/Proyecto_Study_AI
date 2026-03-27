@@ -6,8 +6,6 @@ Integrantes: Cristhian Torrico y Jeremy Aguimar
 
 > Convierte diapositivas + audio en apuntes estructurados automáticamente.
 
----
-
 ## ¿Qué hace este proyecto?
 
 ESTUD-IA toma:
@@ -19,8 +17,6 @@ y genera:
 
 - 🧩 una **explicación por cada diapositiva**
 - 📘 un **documento final** más claro para estudiar
-
----
 
 ## Flujo del sistema
 
