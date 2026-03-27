@@ -11,6 +11,7 @@ Convierte diapositivas + audio en apuntes estructurados automáticamente.
 ESTUD-IA toma:
 
 - 📄 un **PDF de diapositivas**
+- 📄 un **documento Word con apuntes del usuario**
 - 🎙️ una **transcripción del audio**
 
 y genera:
