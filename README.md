@@ -1,10 +1,10 @@
 # Proyecto_Estudy_AI
 
-Integrantes: Cristhian Torrico y Jeremy Aguimar
+# Integrantes: Cristhian Torrico y Jeremy Aguilar
 
 # ESTUD-IA
 
-> Convierte diapositivas + audio en apuntes estructurados automáticamente.
+Convierte diapositivas + audio en apuntes estructurados automáticamente.
 
 ## ¿Qué hace este proyecto?
 
